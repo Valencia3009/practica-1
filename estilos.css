@@ -1,0 +1,28 @@
+body{
+    background-color: #FAFFFD;
+}
+
+h1 {
+    color: #3C91E6;
+    font-family: 'roboto', sans-serif;
+}
+
+h2{
+    color: #9FD356;
+    font-family: 'roboto', sans-serif;
+}
+
+p {
+    color: #0B132B;
+    font-family: 'open sans', sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+
+button{
+    margin: 10px;
+}
